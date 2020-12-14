@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Segoe UI';
+}
+
+.assignment-1-box,
+.assignment-2-box,
+.assignment-3-box,
+.assignment-4-box,
+.assignment-5-box,
+.assignment-6-box {
+    padding-left: 4%;
+    padding-top: 2%;
+}
+
+.label {
+    padding-left: 4%;
+    padding-top: 2%;
+    border: 2px solid gainsboro;
+    width: 20%;
+    height: 10%;
+}
+
+.mixedwords {
+    padding-left: 4%;
+    padding-top: 2%;
+}
